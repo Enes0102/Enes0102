@@ -16,18 +16,14 @@
 | **Personal Website** | My own website, built from scratch. | 🟢 In progress |
 
 ### 🛠️ Languages & tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,cs,java,html,css,unity,blender,ps,vscode&perline=10" alt="Skills" />
+</p>
 
 ### 📚 Currently learning
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,cpp" alt="Learning" />
+</p>
 
 ### 💡 Interests
 - 🕹️ **Game development**
@@ -40,5 +36,10 @@
 
 ### 📫 Find me
 - 💼 LinkedIn: [Enescan Güleryüz](https://www.linkedin.com/in/enescan-g%C3%BClery%C3%BCz-383444435/)
+- 📸 Instagram: [@cannes035](https://www.instagram.com/cannes035/)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enes0102&show_icons=true&hide_border=true" alt="GitHub stats" />
+</p>

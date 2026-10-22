@@ -39,7 +39,3 @@
 - 📸 Instagram: [@cannes035](https://www.instagram.com/cannes035/)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enes0102&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>

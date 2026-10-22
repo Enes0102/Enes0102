@@ -11,7 +11,7 @@
 ### 🚧 What I'm working on
 | Project | Description | Status |
 |---|---|---|
-| **Racing Game** *(working title)* | Endless arcade driving game with a low-poly look — ramps, curves, and a focus on driving feel. PC & mobile. | 🟢 In progress |
+| **Nitro Drift** | Endless arcade driving game with a low-poly look — ramps, curves, and a focus on driving feel. PC & mobile. | ✅ Completed |
 | **Horror Game** *(working title)* | A new horror game in Unity. | 🟡 Just started |
 | **Personal Website** | My own website, built from scratch. | 🟢 In progress |
 

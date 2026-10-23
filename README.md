@@ -38,9 +38,11 @@
 ### 📫 Find me
 ## 📫 Find me
 
+## 📫 Find me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/enescan-guleryuz">
-    <img src="https://img.shields.io/badge/LinkedIn-Enescan%20Güleryüz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/enescan-g%C3%BClery%C3%BCz-383444435/">
+    <img src="https://img.shields.io/badge/LinkedIn-Enescan%20G%C3%BClery%C3%BCz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/cannes035">
     <img src="https://img.shields.io/badge/Instagram-@cannes035-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />

@@ -37,6 +37,6 @@
 
 ### 📫 Find me
 
-<a href="https://www.linkedin.com/in/enescan-g%C3%BClery%C3%BCz-383444435/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;<a href="https://www.instagram.com/cannes035"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;<a href="https://x.com/cannes035"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>&nbsp;<a href="https://cannes035.itch.io"><img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" height="48" alt="itch.io" /></a>
+<a href="https://www.linkedin.com/in/enescan-g%C3%BClery%C3%BCz-383444435/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;<a href="https://www.instagram.com/cannes035"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;<a href="https://x.com/cannes035"><img src="x.svg" alt="X" /></a>&nbsp;<a href="https://cannes035.itch.io"><img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" height="48" alt="itch.io" /></a>
 
 ---

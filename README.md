@@ -18,12 +18,12 @@
 
 ### 🛠️ Languages & tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,cs,java,html,css,unity,blender,ps,vscode&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,c,cs,js,html,css,unity,blender,ps,vscode&perline=10" alt="Skills" />
 </p>
 
 ### 📚 Currently learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=java,cpp" alt="Learning" />
 </p>
 
 ### 💡 Interests

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enescan 👋</h1>
-<p align="center">Developer from Türkiye 🇹🇷 — games, web, and everything close to the metal</p>
+<p align="center">Developer from Türkiye — games, web, and everything close to the metal</p>
 <p align="center">
-  <a href="https://enes0102.github.io"><img src="https://img.shields.io/badge/Portfolio-enes0102.github.io-E5484D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+  <a href="https://enes0102.github.io"><img src="portfolio.svg" alt="Portfolio — enes0102.github.io" /></a>
 </p>
 
 ---

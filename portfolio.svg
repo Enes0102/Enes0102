@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="44" viewBox="0 0 236 44" fill="none">
+  <rect x="0.5" y="0.5" width="235" height="43" rx="21.5" fill="#242938" stroke="#3a3f52"/>
+  <g transform="translate(18 12)" stroke="#ff6369" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="10" cy="10" r="9"/>
+    <path d="M1 10h18"/>
+    <path d="M10 1c2.6 2.5 4 5.6 4 9s-1.4 6.5-4 9c-2.6-2.5-4-5.6-4-9s1.4-6.5 4-9z"/>
+  </g>
+  <text x="48" y="27.5" fill="#ffffff" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600">enes0102.github.io</text>
+  <path d="M206 17l5 5-5 5" stroke="#9a9aa3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

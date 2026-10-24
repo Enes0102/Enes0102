@@ -30,14 +30,6 @@
   <img src="https://skillicons.dev/icons?i=java,cpp" alt="Öğrendiklerim" />
 </p>
 
-### 📊 GitHub istatistikleri
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Enes0102&show_icons=true&hide_border=true&theme=tokyonight&locale=tr" alt="GitHub istatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes0102&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&locale=tr" alt="En çok kullanılan diller" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Enes0102&hide_border=true&theme=tokyonight&locale=tr" alt="GitHub serisi" />
-</p>
 
 ### 💡 İlgi alanları
 - 🕹️ **Oyun geliştirme**
@@ -52,4 +44,12 @@
 
 <a href="https://enes0102.github.io"><img src="web.svg" alt="Web sitesi" /></a>&nbsp;<a href="https://www.linkedin.com/in/enescan-g%C3%BClery%C3%BCz-383444435/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;<a href="https://www.instagram.com/cannes035"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;<a href="https://x.com/cannes035"><img src="x.svg" alt="X" /></a>&nbsp;<a href="https://cannes035.itch.io"><img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" height="48" alt="itch.io" /></a>
 
+### 📊 GitHub istatistikleri
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Enes0102&show_icons=true&hide_border=true&theme=tokyonight&locale=tr" alt="GitHub istatistikleri" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes0102&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&locale=tr" alt="En çok kullanılan diller" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Enes0102&hide_border=true&theme=tokyonight&locale=tr" alt="GitHub serisi" />
+</p>
 ---

@@ -30,6 +30,15 @@
   <img src="https://skillicons.dev/icons?i=java,cpp" alt="Learning" />
 </p>
 
+### 📊 GitHub stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Enes0102&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes0102&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Enes0102&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+
 ### 💡 Interests
 - 🕹️ **Game development**
 - 🌐 **Web & mobile app development**

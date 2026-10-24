@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Enescan 👋</h1>
 <p align="center">Developer from Türkiye — games, web, and everything close to the metal</p>
+<p align="center"><b>English</b> | <a href="README.tr.md">Türkçe</a></p>
 <p align="center">
   <a href="https://enes0102.github.io"><img src="portfolio.svg" alt="Portfolio — enes0102.github.io" /></a>
 </p>

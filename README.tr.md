@@ -30,6 +30,15 @@
   <img src="https://skillicons.dev/icons?i=java,cpp" alt="Öğrendiklerim" />
 </p>
 
+### 📊 GitHub istatistikleri
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Enes0102&show_icons=true&hide_border=true&theme=tokyonight&locale=tr" alt="GitHub istatistikleri" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes0102&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&locale=tr" alt="En çok kullanılan diller" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Enes0102&hide_border=true&theme=tokyonight&locale=tr" alt="GitHub serisi" />
+</p>
+
 ### 💡 İlgi alanları
 - 🕹️ **Oyun geliştirme**
 - 🌐 **Web ve mobil uygulama geliştirme**

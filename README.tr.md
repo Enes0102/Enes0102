@@ -18,6 +18,7 @@
 | **[Nitro Drift](https://github.com/Enes0102/nitro-drift-game)** | Unity ile yapılmış, low-poly görünümlü sonsuz arcade yarış oyunu: drift, nitro, trafik, rampalar, 2 harita ve 3 araba. Hepsi kodla üretiliyor. Windows. [▶ itch.io'da oyna](https://cannes035.itch.io/nitro-drift) | ✅ Tamamlandı |
 | **[Incursio](https://github.com/Enes0102/incursio)** | Saf JavaScript ve HTML5 Canvas ile sıfırdan yazılmış, yukarıdan bakışlı hayatta kalma nişancı oyunu. <br> [▶ Tarayıcıda oyna](https://enes0102.github.io/incursio/) | ✅ Tamamlandı |
 | **[CHIP-8 Emülatörü](https://github.com/Enes0102/chip8-emulator)** | C++17 ve SDL2 ile sıfırdan yazılmış CHIP-8 emülatörü. 35 komutun tamamını destekliyor ve Timendus test setinden geçiyor. | ✅ Tamamlandı |
+| **[Vitals](https://github.com/Enes0102/vitals-monitor)** | Python ile yazılmış renkli bir terminal sistem monitörü: işlemci, bellek, diskler, ağ ve işlemler tek bir canlı panelde. | ✅ Tamamlandı |
 | **Korku Oyunu** *(çalışma adı)* | Unity'de yeni bir korku oyunu. | 🟡 Yeni başladı |
 
 ### 🛠️ Diller ve araçlar
